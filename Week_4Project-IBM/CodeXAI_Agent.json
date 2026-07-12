@@ -1,0 +1,111 @@
+{
+  "project": {
+    "title": "AI Code Review Agent",
+    "tagline": "An Intelligent AI Assistant for Automated Code Analysis and Quality Assurance",
+    "version": "1.0.0",
+    "category": "Artificial Intelligence",
+    "domain": "Software Development",
+    "description": "AI Code Review Agent is an intelligent assistant that automatically reviews source code, identifies bugs, detects security vulnerabilities, analyzes performance bottlenecks, evaluates code quality, and provides optimized code suggestions. The agent helps developers write cleaner, more secure, and maintainable code while reducing manual review effort and improving overall software quality."
+  },
+  "developer": {
+    "name": "B. Ansley Golda",
+    "role": "Engineering Student",
+    "institution": "J.N.N Institute of Engineering",
+    "department": "B.E. Computer Science and Engineering",
+    "academicYear": "2026-2027",
+    "email": "ansleygolda02@gmail.com",
+    "phone": "6382909032"
+  },
+  "features": [
+    "Automatic Programming Language Detection",
+    "Bug Detection",
+    "Logical Error Analysis",
+    "Syntax Error Detection",
+    "Security Vulnerability Detection",
+    "Performance Optimization Suggestions",
+    "Code Quality Assessment",
+    "Readability Analysis",
+    "Maintainability Evaluation",
+    "Refactoring Recommendations",
+    "Best Practice Suggestions",
+    "Clean Code Recommendations",
+    "Documentation Review",
+    "Complexity Analysis",
+    "Code Quality Score",
+    "Optimized Code Generation",
+    "Multi-Language Support"
+  ],
+  "supportedLanguages": [
+    "Java",
+    "Python",
+    "C",
+    "C++",
+    "JavaScript",
+    "TypeScript",
+    "Go",
+    "Rust",
+    "PHP",
+    "SQL"
+  ],
+  "technologies": {
+    "platform": "IBM watsonx Orchestrate",
+    "ai": [
+      "Large Language Models",
+      "Natural Language Processing",
+      "Prompt Engineering"
+    ],
+    "cloud": "IBM Cloud"
+  },
+  "workflow": [
+    "User submits source code.",
+    "AI detects the programming language.",
+    "The code is analyzed for syntax and logical issues.",
+    "Security vulnerabilities are identified.",
+    "Performance bottlenecks are analyzed.",
+    "Code quality and maintainability are evaluated.",
+    "Refactoring suggestions are generated.",
+    "Optimized code is produced.",
+    "A structured review report is presented to the user."
+  ],
+  "quickStartPrompts": [
+    "Review my code for bugs and security issues.",
+    "Optimize this code for better performance.",
+    "Find logical and syntax errors in this program.",
+    "Refactor this code using clean coding principles.",
+    "Evaluate the quality of my source code.",
+    "Generate an improved version of this code."
+  ],
+  "benefits": [
+    "Reduces manual code review effort",
+    "Improves software quality",
+    "Detects security vulnerabilities",
+    "Enhances code readability",
+    "Optimizes application performance",
+    "Promotes industry coding standards",
+    "Saves developer time",
+    "Improves maintainability"
+  ],
+  "futureScope": [
+    "GitHub Integration",
+    "GitLab Integration",
+    "Bitbucket Support",
+    "CI/CD Pipeline Integration",
+    "IDE Plugins",
+    "Automated Code Fixing",
+    "Custom Coding Standards",
+    "Team Collaboration",
+    "Security Compliance Reports"
+  ],
+  "status": {
+    "deployment": "Live",
+    "platform": "IBM watsonx Orchestrate",
+    "readyForSubmission": true
+  },
+  "metadata": {
+    "createdBy": "B. Ansley Golda",
+    "projectType": "AI Agent",
+    "license": "Educational Project",
+    "lastUpdated": "2026-07-12",
+    "language": "English"
+  }
+}
